@@ -23,3 +23,19 @@ List of modules the Library Management System will have:
   ▪ Issue Books: User can issue the books that are available in the library. 
   ▪ Return Books: User can return borrowed books. 
   ▪ Issued Books: User can check all the information of the books they have issued.
+
+SignUp Page:
+![image](https://github.com/AnanyaBaruaB/Library_Mang/assets/130342684/842395f5-f38c-4657-998b-cac07432181b)
+Login Page:
+![image](https://github.com/AnanyaBaruaB/Library_Mang/assets/130342684/8367e5e8-b954-4b8d-a8fc-805db37e72c5)
+Dashboard:
+![image](https://github.com/AnanyaBaruaB/Library_Mang/assets/130342684/8ec68b43-6309-4578-b8c8-925b738062de)
+![image](https://github.com/AnanyaBaruaB/Library_Mang/assets/130342684/f09bd872-53b3-40e1-a0ff-1b40f6177e64)
+![image](https://github.com/AnanyaBaruaB/Library_Mang/assets/130342684/9c5cf2af-b23d-4d3f-a0c3-8a3d12db00d6)
+![image](https://github.com/AnanyaBaruaB/Library_Mang/assets/130342684/835a5a5f-e1f7-457e-8140-c4e1a4592376)
+![image](https://github.com/AnanyaBaruaB/Library_Mang/assets/130342684/4be6d5b3-9cff-41eb-9458-d40cc9347c73)
+
+
+
+
+
